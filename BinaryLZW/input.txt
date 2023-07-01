@@ -1,0 +1,121 @@
+Arquivo de entrada "997-alfa-input" com inteiros gerados aleatoriamente 
+com m = 997 fornecido como exemplo
+
+------------
+ENTRADA 1:
+
+Encadeamento dinamica:
+
+Alfa: 0.10 -> media acessos: 1.019
+Alfa: 0.20 -> media acessos: 1.115
+Alfa: 0.30 -> media acessos: 1.143
+Alfa: 0.40 -> media acessos: 1.180
+Alfa: 0.50 -> media acessos: 1.238
+Alfa: 0.60 -> media acessos: 1.300
+Alfa: 0.70 -> media acessos: 1.312
+Alfa: 0.80 -> media acessos: 1.408
+Alfa: 0.90 -> media acessos: 1.433
+Alfa: 0.99 -> media acessos: 1.503
+
+
+Encadeamento estatica:
+
+Alfa: 0.10 -> media acessos: 1.000
+Alfa: 0.20 -> media acessos: 1.045
+Alfa: 0.30 -> media acessos: 1.030
+Alfa: 0.40 -> media acessos: 1.037
+Alfa: 0.50 -> media acessos: 1.054
+Alfa: 0.60 -> media acessos: 1.143
+Alfa: 0.70 -> media acessos: 1.166
+Alfa: 0.80 -> media acessos: 1.276
+Alfa: 0.90 -> media acessos: 1.283
+Alfa: 0.99 -> media acessos: 1.432
+
+-------------
+ENTRADA 2:
+
+Encadeamento dinamica:
+
+Alfa: 0.10 -> media acessos: 1.040
+Alfa: 0.20 -> media acessos: 1.080
+Alfa: 0.30 -> media acessos: 1.120
+Alfa: 0.40 -> media acessos: 1.215
+Alfa: 0.50 -> media acessos: 1.250
+Alfa: 0.60 -> media acessos: 1.265
+Alfa: 0.70 -> media acessos: 1.329
+Alfa: 0.80 -> media acessos: 1.406
+Alfa: 0.90 -> media acessos: 1.468
+Alfa: 0.99 -> media acessos: 1.486
+
+Encadeamento estatico:
+
+Alfa: 0.10 -> media acessos: 1.000
+Alfa: 0.20 -> media acessos: 1.000
+Alfa: 0.30 -> media acessos: 1.000
+Alfa: 0.40 -> media acessos: 1.055
+Alfa: 0.50 -> media acessos: 1.120
+Alfa: 0.60 -> media acessos: 1.125
+Alfa: 0.70 -> media acessos: 1.148
+Alfa: 0.80 -> media acessos: 1.306
+Alfa: 0.90 -> media acessos: 1.411
+Alfa: 0.99 -> media acessos: 1.454
+
+
+----------------
+ENTRADA 3:
+
+Encadeamento dinamica:
+
+Alfa: 0.10 -> media acessos: 1.050
+Alfa: 0.20 -> media acessos: 1.125
+Alfa: 0.30 -> media acessos: 1.156
+Alfa: 0.40 -> media acessos: 1.165
+Alfa: 0.50 -> media acessos: 1.290
+Alfa: 0.60 -> media acessos: 1.310
+Alfa: 0.70 -> media acessos: 1.364
+Alfa: 0.80 -> media acessos: 1.390
+Alfa: 0.90 -> media acessos: 1.443
+Alfa: 0.99 -> media acessos: 1.479
+
+Encadeamento estatico:
+
+Alfa: 0.10 -> media acessos: 1.000
+Alfa: 0.20 -> media acessos: 1.020
+Alfa: 0.30 -> media acessos: 1.033
+Alfa: 0.40 -> media acessos: 1.037
+Alfa: 0.50 -> media acessos: 1.102
+Alfa: 0.60 -> media acessos: 1.136
+Alfa: 0.70 -> media acessos: 1.208
+Alfa: 0.80 -> media acessos: 1.242
+Alfa: 0.90 -> media acessos: 1.388
+Alfa: 0.99 -> media acessos: 1.387
+
+
+ENTRADA 4:
+
+Encadeamento dinamica:
+
+Alfa: 0.10 -> media acessos: 1.090
+Alfa: 0.20 -> media acessos: 1.095
+Alfa: 0.30 -> media acessos: 1.153
+Alfa: 0.40 -> media acessos: 1.185
+Alfa: 0.50 -> media acessos: 1.244
+Alfa: 0.60 -> media acessos: 1.320
+Alfa: 0.70 -> media acessos: 1.360
+Alfa: 0.80 -> media acessos: 1.393
+Alfa: 0.90 -> media acessos: 1.478
+Alfa: 0.99 -> media acessos: 1.482
+
+Encadeamento estatico:
+
+Alfa: 0.10 -> media acessos: 1.020
+Alfa: 0.20 -> media acessos: 1.025
+Alfa: 0.30 -> media acessos: 1.036
+Alfa: 0.40 -> media acessos: 1.072
+Alfa: 0.50 -> media acessos: 1.114
+Alfa: 0.60 -> media acessos: 1.131
+Alfa: 0.70 -> media acessos: 1.234
+Alfa: 0.80 -> media acessos: 1.296
+Alfa: 0.90 -> media acessos: 1.367
+Alfa: 0.99 -> media acessos: 1.412
+
