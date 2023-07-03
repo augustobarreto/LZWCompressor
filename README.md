@@ -10,8 +10,6 @@ Repositório em Java que disponibiliza o código do compressor LZW
 
 Vá para o diretório desejado:
 
-- LZW: Apenas para arquivos de texto
-
 - BinaryLZW: Todo tipo de arquivo
 
 ```sh
@@ -19,8 +17,6 @@ javac *.java
 ```
 
 ## Compressão
-
-No BinaryLZW, por exemplo, teríamos:
 
 ```sh
 java BinaryLZWCompression input.jpeg compressed.lzw
