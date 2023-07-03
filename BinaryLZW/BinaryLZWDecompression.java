@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class BinaryLZWDecompression {
-    private static final int MAX_TABLE_SIZE = 4096;
+    private static final int MAX_TABLE_SIZE =4096*16;
 
     public static void decompress(File compressedFile, File outputFile) {
         try (DataInputStream inputStream = new DataInputStream(new FileInputStream(compressedFile));
