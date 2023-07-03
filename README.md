@@ -28,7 +28,7 @@ java BinaryLZWCompression input.jpeg compressed.lzw
 
 ## Descompressão
 
-Comando para descomprimir um arquivo: java BinaryLZWDecompression [compressed.lzw][arquivo_de_sapida.extensão] 
+Comando para descomprimir um arquivo: java BinaryLZWDecompression [compressed.lzw][arquivo_de_saída.extensão] 
 
 ```sh
 java BinaryLZWDecompression compressed.lzw output.jpeg
